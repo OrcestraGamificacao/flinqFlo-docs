@@ -1,0 +1,5 @@
+- [**Letra da Música**](README.md)
+-[**Políticas**](#)
+	- [Branches](/docs/branches.md)
+	- [Issues](/docs/issues.md)
+	- [Pull Requests](/docs/pullRequests.md)
