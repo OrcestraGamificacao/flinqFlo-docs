@@ -5,3 +5,4 @@
 	- [Issues](/docs/issues.md)
 	- [Commits](/docs/commits.md)
 	- [Pull Requests](/docs/pullRequests.md)
+-[**Diagrama de Pacotes**](/docs/packageDiagram.md)
