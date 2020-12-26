@@ -1,4 +1,5 @@
-- [**Letra da Música**](README.md)
+- [**README**](README.md)
+- [**Hino**](/docs/hino.md)
 -[**Políticas**](#)
 	- [Branches](/docs/branches.md)
 	- [Issues](/docs/issues.md)
