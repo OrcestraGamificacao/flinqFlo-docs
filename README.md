@@ -1,4 +1,4 @@
-# Flin Fló
+# Flinq Fló
 
 ## Sobre o projeto 😮😮😮
 
