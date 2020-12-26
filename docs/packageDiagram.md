@@ -1,6 +1,6 @@
 # Diagramas de Pacotes 
 
-## Backend/
+## Backend
 Diagrama de pacotes para o Backend:
 
 
