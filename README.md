@@ -33,17 +33,7 @@ O projeto será uma plataforma para Processo Seletivo de Empresas Júniores, que
         <div class="middle">
             <a href="https://github.com/emysdias" style="text-decoration:none">
                 <div class="text">
-                    Emily Dias - Dev
-                </div>
-            </a>
-        </div>
-    </div>
-    <div class="col-sm container-img">
-        <img src="https://avatars2.githubusercontent.com/u/51263792?s=400&u=4470eb698201803b3b85c0fb7376e6ae8544b517&v=4" alt="Gabriel Sabanai" class="img-thumbnail image">
-        <div class="middle">
-            <a href="https://github.com/Sabanai104" style="text-decoration:none">
-                <div class="text">
-                Gabriel Sabanai - Dev
+                    Emily Dias - Gerente
                 </div>
             </a>
         </div>
@@ -54,6 +44,16 @@ O projeto será uma plataforma para Processo Seletivo de Empresas Júniores, que
             <a href="https://github.com/fellipe-araujo" style="text-decoration:none">
                 <div class="text">
                 Fellipe Araújo - Acompanhante
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col-sm container-img">
+        <img src="https://avatars2.githubusercontent.com/u/51263792?s=400&u=4470eb698201803b3b85c0fb7376e6ae8544b517&v=4" alt="Gabriel Sabanai" class="img-thumbnail image">
+        <div class="middle">
+            <a href="https://github.com/Sabanai104" style="text-decoration:none">
+                <div class="text">
+                Gabriel Sabanai - Dev
                 </div>
             </a>
         </div>
